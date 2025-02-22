@@ -1,0 +1,12 @@
+{
+  "private": "true",
+  "name": "dofus-almanax",
+  "version": "1.0.0",
+  "description": "Dofus Almanax",
+  "main": "index.js",
+  "author": "ottodono@protonmail.com",
+  "license": "MIT",
+  "workspaces": [
+    "apps/*"
+  ]
+}
