@@ -1,0 +1,6 @@
+server:
+  servlet:
+    context-path: /scrapper
+spring:
+  application:
+    name: scrapper
